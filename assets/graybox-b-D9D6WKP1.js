@@ -1,0 +1,1 @@
+import{g as o}from"./graybox-C4TBBvEh.js";import{br as t}from"./index-yC7XslmD.js";const s=[{id:"item0001",anchor:"roost",offset:[0,.25,0],tags:["trinket"],souvenir:"souvenir0001",color:"#f9ca51"}],n={finds:s},a=o(t,n);export{a as island};
