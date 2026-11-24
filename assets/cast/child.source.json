@@ -1,0 +1,29 @@
+{
+  "id": "legacy",
+  "author": "Gull studio",
+  "license": "Original project work",
+  "input": "Assets/Art/Models/people/person_kid.glb",
+  "sha256": "aef69a761354808f2081185c699822481687b4fa7a6fe0e3dc12e91f6b7161a4",
+  "output": "child.glb",
+  "dimensions": [
+    0.493,
+    1.12,
+    0.222
+  ],
+  "sourceClips": {
+    "idle": "idle",
+    "walk": "walk",
+    "run": "run",
+    "work": "work",
+    "sit": "sit",
+    "sleep": "sit",
+    "flee": "flee",
+    "chase": "chase",
+    "shoo": "shoo",
+    "eat": "feed"
+  },
+  "animationLibrary": {
+    "input": "Assets/Art/Models/people/actor_clip_library.glb",
+    "sha256": "fbf02404ed85e461c16f7d8111ef6b9d9a765cc2544191388df70fc52c892dc3"
+  }
+}

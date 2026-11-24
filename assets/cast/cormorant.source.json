@@ -1,0 +1,32 @@
+{
+  "id": "legacy",
+  "author": "Gull studio",
+  "license": "Original project work",
+  "input": "Assets/Art/Models/animals/animal_cormorant.glb",
+  "sha256": "38d560ea6dd9a5fea49fad293b21d591460e251bc9e8052c1136384b4cc01656",
+  "output": "cormorant.glb",
+  "dimensions": [
+    0.5434,
+    0.53,
+    0.7519
+  ],
+  "sourceClips": {
+    "idle": "idle",
+    "walk": "walk",
+    "run": "run",
+    "work": "work",
+    "sit": "sit",
+    "sleep": "sit",
+    "flee": "flee",
+    "chase": "chase",
+    "shoo": "shoo",
+    "eat": "feed",
+    "swim": "walk",
+    "fly": "Authored pose using idle",
+    "dive": "Authored pose using idle"
+  },
+  "animationLibrary": {
+    "input": "Assets/Art/Models/people/actor_clip_library.glb",
+    "sha256": "fbf02404ed85e461c16f7d8111ef6b9d9a765cc2544191388df70fc52c892dc3"
+  }
+}

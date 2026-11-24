@@ -1,0 +1,31 @@
+{
+  "id": "legacy",
+  "author": "Gull studio",
+  "license": "Original project work",
+  "input": "Assets/Art/Models/animals/animal_pigeon.glb",
+  "sha256": "df8e56c1b1b3b9d0fc0a1968786c5a9dc827f694bd767d99d9e3257986a27dd8",
+  "output": "pigeon.glb",
+  "dimensions": [
+    0.358,
+    0.24,
+    0.3815
+  ],
+  "sourceClips": {
+    "idle": "idle",
+    "walk": "walk",
+    "run": "run",
+    "work": "work",
+    "sit": "sit",
+    "sleep": "sit",
+    "flee": "flee",
+    "chase": "chase",
+    "shoo": "shoo",
+    "eat": "feed",
+    "fly": "Authored pose using idle",
+    "dive": "Authored pose using idle"
+  },
+  "animationLibrary": {
+    "input": "Assets/Art/Models/people/actor_clip_library.glb",
+    "sha256": "fbf02404ed85e461c16f7d8111ef6b9d9a765cc2544191388df70fc52c892dc3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "men",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "url": "https://poly.pizza/bundle/Ultimate-Modular-Men-Pack-ZiH8muWqwQ",
+  "creator_url": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+  "input": "Hoodie Character-gKLBoRsyKe.glb",
+  "sha256": "0de1bcd789d409214cf82f66f61daeb53d2f7de6d914b23e7b3660bfb3dee61e",
+  "licenseFile": "licenses/men/CC0-1.0.txt",
+  "output": "skier.glb",
+  "dimensions": [
+    0.5309,
+    1.71,
+    0.5766
+  ],
+  "sourceClips": {
+    "idle": "CharacterArmature|Idle",
+    "walk": "CharacterArmature|Walk",
+    "run": "CharacterArmature|Run",
+    "work": "CharacterArmature|Interact",
+    "sit": "Authored pose using CharacterArmature|Idle",
+    "sleep": "Authored pose using CharacterArmature|Idle",
+    "flee": "CharacterArmature|Run at 1.15x",
+    "chase": "CharacterArmature|Run at 1.07x",
+    "shoo": "CharacterArmature|Wave",
+    "eat": "CharacterArmature|Interact"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pets",
+  "url": "https://vuena.itch.io/blocky-pets-free",
+  "author": "Vuena",
+  "license": "CC0-1.0",
+  "downloaded_at": "2026-11-23T15:50:31.062421+00:00",
+  "files": {
+    "README.txt": "0170b077ca5036135a2f1d61b174a918abb63408ca56cb53c1862fdd57397f16",
+    "LICENSE.txt": "822f8e5c86a8a43113482bd1bb90efcde2b7483e0b513751e0aedda75c505746",
+    "GLB/animal_cat.glb": "158674d358a60d140719a036b7483ab530b1cce98dcd4f26b0629f8373e0b65c",
+    "GLB/animal_fox.glb": "dd5f8de4ef7049f42d87717ab43f633b7ef1464f7800e1696c0470495461cf15",
+    "GLB/animal_owl.glb": "12b0d7ff039b60b58ea4dd0ebcf07242c5f2c3d1ba0dc0935b94aa5a954a8bbc",
+    "FBX/animal_cat.fbx": "de8ba7a2af43c2f26e32bcb8695f1c19bdb110b3253cedd587b135dd3aba05dd",
+    "FBX/animal_fox.fbx": "6d634d3e311efadbc0f77f0c2ec5abdca03bcb2948662f759317fb5bfbb133af",
+    "FBX/animal_owl.fbx": "1b640a46e23597d743ad0da0cb0dca51ee0faf1b9165fe2f8fe9b19b98513c73",
+    "Textures/animal_cat_albedo.png": "cb7dcd456fffeee4bb3247f4a4ed4d5567a4da78c09fe7fa50c0bf5f7c2e2381",
+    "Textures/animal_cat_orm.png": "7225e60ae999318047039e5b3343a7daf37884661bd719a81cebda03acef303d",
+    "Textures/animal_fox_albedo.png": "696e416514083e28f9ce1511770c94c735bb11f15068ea6c62fb7dad8f9bcf68",
+    "Textures/animal_fox_orm.png": "e7f3f43d9f6d2366ba5b59b9f478d5529bccee350c4443491277e2968590639f",
+    "Textures/animal_owl_albedo.png": "971c2b8666d0935ebb0d21da9813736255d46f382a0b318286fa0681526187db",
+    "Textures/animal_owl_orm.png": "7d2cfd690a4ca6d2ba562a502b9ba83db474eedc7ff94b80843d43e616bf9e86",
+    "cover.png": "e5b0ee47e73dc62dd4043b7159bb9dfb2a883fd2615c6b4e09be24e07061c22c",
+    "CC0-1.0.txt": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+  }
+}

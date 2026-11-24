@@ -1,0 +1,28 @@
+{
+  "id": "gobkit-animals",
+  "author": "Gobkit",
+  "license": "CC0-1.0",
+  "url": "https://gobkit.itch.io/gobkit-free-animal-pack-vol-2",
+  "input": "Web/Seal.glb",
+  "sha256": "c6075106afad0078f5fa0fc6740b4c806c6d2e7d371337acf185fddae5b6ec75",
+  "licenseFile": "licenses/gobkit-animals/CC0-1.0.txt",
+  "output": "seal.glb",
+  "dimensions": [
+    0.8701,
+    0.65,
+    1.427
+  ],
+  "sourceClips": {
+    "idle": "idle",
+    "walk": "walk",
+    "run": "walk at 1.45x",
+    "work": "walk",
+    "sit": "idle",
+    "sleep": "idle",
+    "flee": "walk at 1.65x",
+    "chase": "walk at 1.45x",
+    "shoo": "attack",
+    "eat": "attack",
+    "swim": "walk"
+  }
+}

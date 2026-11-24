@@ -1,0 +1,28 @@
+{
+  "id": "animals",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "url": "https://poly.pizza/bundle/Animated-Animal-Pack-ILAPXeUYiS",
+  "creator_url": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+  "input": "Stag-tQdzbZ1Cmw.glb",
+  "sha256": "3c2df7c13a3d37c8660684e46aa1e5a2bf7e91a9b279983921d48bd93d0b67ed",
+  "licenseFile": "licenses/animals/CC0-1.0.txt",
+  "output": "stag.glb",
+  "dimensions": [
+    0.8811,
+    1.85,
+    1.6676
+  ],
+  "sourceClips": {
+    "idle": "AnimalArmature|Idle",
+    "walk": "AnimalArmature|Walk",
+    "run": "AnimalArmature|Gallop",
+    "work": "AnimalArmature|Eating",
+    "sit": "AnimalArmature|Idle_Headlow",
+    "sleep": "AnimalArmature|Idle_Headlow",
+    "flee": "AnimalArmature|Gallop at 1.15x",
+    "chase": "AnimalArmature|Gallop at 1.07x",
+    "shoo": "AnimalArmature|Attack_Headbutt",
+    "eat": "AnimalArmature|Eating"
+  }
+}

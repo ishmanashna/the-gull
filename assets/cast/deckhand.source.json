@@ -1,0 +1,28 @@
+{
+  "id": "men",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "url": "https://poly.pizza/bundle/Ultimate-Modular-Men-Pack-ZiH8muWqwQ",
+  "creator_url": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+  "input": "Casual Character-kZ3DmIoGip.glb",
+  "sha256": "fea7e71271203e7073f1a073fa1208de7402df276f87f80e149bf7589b5d46b4",
+  "licenseFile": "licenses/men/CC0-1.0.txt",
+  "output": "deckhand.glb",
+  "dimensions": [
+    1.5287,
+    1.72,
+    0.4453
+  ],
+  "sourceClips": {
+    "idle": "CharacterArmature|Idle",
+    "walk": "CharacterArmature|Walk",
+    "run": "CharacterArmature|Run",
+    "work": "CharacterArmature|Interact",
+    "sit": "Authored pose using CharacterArmature|Idle",
+    "sleep": "Authored pose using CharacterArmature|Idle",
+    "flee": "CharacterArmature|Run at 1.15x",
+    "chase": "CharacterArmature|Run at 1.07x",
+    "shoo": "CharacterArmature|Wave",
+    "eat": "CharacterArmature|Interact"
+  }
+}

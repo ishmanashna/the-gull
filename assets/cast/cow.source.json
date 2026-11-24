@@ -1,0 +1,28 @@
+{
+  "id": "animals",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "url": "https://poly.pizza/bundle/Animated-Animal-Pack-ILAPXeUYiS",
+  "creator_url": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+  "input": "Cow-26zM1outCr.glb",
+  "sha256": "aa0dfbd619bc14838b48f6db02a56c2ee96f055930d957fcc5ef63af567b21ce",
+  "licenseFile": "licenses/animals/CC0-1.0.txt",
+  "output": "cow.glb",
+  "dimensions": [
+    0.6301,
+    1.25,
+    2.1985
+  ],
+  "sourceClips": {
+    "idle": "AnimalArmature|Idle",
+    "walk": "AnimalArmature|Walk",
+    "run": "AnimalArmature|Gallop",
+    "work": "AnimalArmature|Eating",
+    "sit": "AnimalArmature|Idle_Headlow",
+    "sleep": "AnimalArmature|Idle_Headlow",
+    "flee": "AnimalArmature|Gallop at 1.15x",
+    "chase": "AnimalArmature|Gallop at 1.07x",
+    "shoo": "AnimalArmature|Attack_Headbutt",
+    "eat": "AnimalArmature|Eating"
+  }
+}

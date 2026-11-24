@@ -1,0 +1,28 @@
+{
+  "id": "men",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "url": "https://poly.pizza/bundle/Ultimate-Modular-Men-Pack-ZiH8muWqwQ",
+  "creator_url": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+  "input": "Business Man-JFrLIKqvCH.glb",
+  "sha256": "82b81257c1e94cd9ee48cb1dcbe5ff506e81c9ce67cd0c5af542d8712dca546e",
+  "licenseFile": "licenses/men/CC0-1.0.txt",
+  "output": "admiral.glb",
+  "dimensions": [
+    0.5678,
+    1.79,
+    0.6027
+  ],
+  "sourceClips": {
+    "idle": "CharacterArmature|Idle",
+    "walk": "CharacterArmature|Walk",
+    "run": "CharacterArmature|Run",
+    "work": "Authored pose using CharacterArmature|Idle",
+    "sit": "Authored pose using CharacterArmature|Idle",
+    "sleep": "Authored pose using CharacterArmature|Idle",
+    "flee": "CharacterArmature|Run at 1.15x",
+    "chase": "CharacterArmature|Run at 1.07x",
+    "shoo": "CharacterArmature|Wave",
+    "eat": "CharacterArmature|Interact"
+  }
+}

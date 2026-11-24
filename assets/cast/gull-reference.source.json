@@ -1,0 +1,16 @@
+{
+  "id": "legacy",
+  "author": "Gull studio",
+  "license": "Original project work",
+  "input": "Assets/Art/Models/gull/gull.glb",
+  "sha256": "369e68d8a89d6dc6cd525466779d8253f6f015af53e9c85009ad64e94045517e",
+  "output": "gull-reference.glb",
+  "dimensions": [
+    0.7986,
+    0.34,
+    0.4636
+  ],
+  "sourceClips": {
+    "idle": "idle"
+  }
+}

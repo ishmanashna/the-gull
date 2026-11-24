@@ -1,0 +1,29 @@
+{
+  "id": "fish",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "url": "https://poly.pizza/bundle/Animated-Fish-Bundle-ZkGbjS8m8g",
+  "creator_url": "https://poly.pizza/bundle/Animated-Fish-Bundle-ZkGbjS8m8g",
+  "input": "Dolphin-3LzFgI3GLO.glb",
+  "sha256": "3c8bdc0440b5585c15c753a6b6a07f57a80ce3f33f58333c804069c714dd9993",
+  "licenseFile": "licenses/fish/CC0-1.0.txt",
+  "output": "dolphin.glb",
+  "dimensions": [
+    0.9351,
+    0.85,
+    2.6315
+  ],
+  "sourceClips": {
+    "idle": "Armature|Swim at 0.62x",
+    "walk": "Armature|Swim",
+    "run": "Armature|Swim at 1.45x",
+    "work": "Armature|Swim",
+    "sit": "Armature|Swim at 0.62x",
+    "sleep": "Armature|Swim at 0.62x",
+    "flee": "Armature|Swim at 1.65x",
+    "chase": "Armature|Swim at 1.45x",
+    "shoo": "Armature|Swim",
+    "eat": "Armature|Swim",
+    "swim": "Armature|Swim"
+  }
+}

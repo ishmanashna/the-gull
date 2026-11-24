@@ -1,0 +1,29 @@
+{
+  "id": "legacy",
+  "author": "Gull studio",
+  "license": "Original project work",
+  "input": "Assets/Art/Models/animals/animal_bear.glb",
+  "sha256": "afd18caae993c102d11e23ed9249e6b602baa0765fb96ec2d8028ae89dcd09dc",
+  "output": "bear.glb",
+  "dimensions": [
+    0.8695,
+    1.45,
+    1.7776
+  ],
+  "sourceClips": {
+    "idle": "idle",
+    "walk": "walk",
+    "run": "run",
+    "work": "work",
+    "sit": "sit",
+    "sleep": "sit",
+    "flee": "flee",
+    "chase": "chase",
+    "shoo": "shoo",
+    "eat": "feed"
+  },
+  "animationLibrary": {
+    "input": "Assets/Art/Models/people/actor_clip_library.glb",
+    "sha256": "fbf02404ed85e461c16f7d8111ef6b9d9a765cc2544191388df70fc52c892dc3"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "legacy",
+  "author": "Gull studio",
+  "license": "Original project work",
+  "input": "Assets/Art/Models/animals/animal_gull.glb",
+  "sha256": "7ef50aa69a67bde5d1ec06cc09ee9c9f475f2f3028aba2c585e66dceeec12031",
+  "output": "swift.glb",
+  "dimensions": [
+    1.043,
+    0.17,
+    0.5783
+  ],
+  "sourceClips": {
+    "idle": "idle",
+    "walk": "walk",
+    "run": "run",
+    "work": "work",
+    "sit": "sit",
+    "sleep": "sit",
+    "flee": "flee",
+    "chase": "chase",
+    "shoo": "shoo",
+    "eat": "feed",
+    "fly": "Authored pose using idle",
+    "dive": "Authored pose using idle"
+  },
+  "animationLibrary": {
+    "input": "Assets/Art/Models/people/actor_clip_library.glb",
+    "sha256": "fbf02404ed85e461c16f7d8111ef6b9d9a765cc2544191388df70fc52c892dc3"
+  }
+}

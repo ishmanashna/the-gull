@@ -1,0 +1,28 @@
+{
+  "id": "animals",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "url": "https://poly.pizza/bundle/Animated-Animal-Pack-ILAPXeUYiS",
+  "creator_url": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+  "input": "Donkey-qmX6nhnvp7.glb",
+  "sha256": "b3a529f300a3d2e62db7ac02f45df42327af9740146f0b27c5cae7b5d234f1d2",
+  "licenseFile": "licenses/animals/CC0-1.0.txt",
+  "output": "donkey.glb",
+  "dimensions": [
+    0.3698,
+    1.26,
+    1.5004
+  ],
+  "sourceClips": {
+    "idle": "AnimalArmature|Idle",
+    "walk": "AnimalArmature|Walk",
+    "run": "AnimalArmature|Gallop",
+    "work": "AnimalArmature|Eating",
+    "sit": "AnimalArmature|Idle_Headlow",
+    "sleep": "AnimalArmature|Idle_Headlow",
+    "flee": "AnimalArmature|Gallop at 1.15x",
+    "chase": "AnimalArmature|Gallop at 1.07x",
+    "shoo": "AnimalArmature|Attack_Headbutt",
+    "eat": "AnimalArmature|Eating"
+  }
+}

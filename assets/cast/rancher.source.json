@@ -1,0 +1,28 @@
+{
+  "id": "men",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "url": "https://poly.pizza/bundle/Ultimate-Modular-Men-Pack-ZiH8muWqwQ",
+  "creator_url": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+  "input": "Farmer-7pn3R6hPvE.glb",
+  "sha256": "f7ae6e2596c6521d296fa5948783f1dac717807456ce5355e48719e81d15e9a6",
+  "licenseFile": "licenses/men/CC0-1.0.txt",
+  "output": "rancher.glb",
+  "dimensions": [
+    0.5547,
+    1.71,
+    0.6153
+  ],
+  "sourceClips": {
+    "idle": "CharacterArmature|Idle",
+    "walk": "CharacterArmature|Walk",
+    "run": "CharacterArmature|Run",
+    "work": "CharacterArmature|Interact",
+    "sit": "Authored pose using CharacterArmature|Idle",
+    "sleep": "Authored pose using CharacterArmature|Idle",
+    "flee": "CharacterArmature|Run at 1.15x",
+    "chase": "CharacterArmature|Run at 1.07x",
+    "shoo": "CharacterArmature|Wave",
+    "eat": "CharacterArmature|Interact"
+  }
+}

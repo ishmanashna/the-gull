@@ -1,0 +1,31 @@
+{
+  "id": "legacy",
+  "author": "Gull studio",
+  "license": "Original project work",
+  "input": "Assets/Art/Models/animals/animal_heron.glb",
+  "sha256": "5ef316d31f09317d72f1bdc0148ac5ad72116ecc9d5c5d3201e6fa3ba9de8b85",
+  "output": "heron.glb",
+  "dimensions": [
+    0.7101,
+    0.85,
+    0.948
+  ],
+  "sourceClips": {
+    "idle": "idle",
+    "walk": "walk",
+    "run": "run",
+    "work": "work",
+    "sit": "sit",
+    "sleep": "sit",
+    "flee": "flee",
+    "chase": "chase",
+    "shoo": "shoo",
+    "eat": "feed",
+    "fly": "Authored pose using idle",
+    "dive": "Authored pose using idle"
+  },
+  "animationLibrary": {
+    "input": "Assets/Art/Models/people/actor_clip_library.glb",
+    "sha256": "fbf02404ed85e461c16f7d8111ef6b9d9a765cc2544191388df70fc52c892dc3"
+  }
+}

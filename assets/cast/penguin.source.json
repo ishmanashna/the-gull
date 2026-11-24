@@ -1,0 +1,28 @@
+{
+  "id": "birds",
+  "author": "Gobkit",
+  "license": "CC0-1.0",
+  "url": "https://gobkit.com/freebies",
+  "input": "Web/Penguin.glb",
+  "sha256": "1148c57f2332029904e6f7fb44f40c155ab7133345c0d3f7edd2e648ce2567de",
+  "licenseFile": "licenses/birds/CC0-1.0.txt",
+  "output": "penguin.glb",
+  "dimensions": [
+    0.5048,
+    0.68,
+    0.3823
+  ],
+  "sourceClips": {
+    "idle": "idle",
+    "walk": "walk",
+    "run": "walk at 1.45x",
+    "work": "walk",
+    "sit": "idle",
+    "sleep": "idle",
+    "flee": "walk at 1.65x",
+    "chase": "walk at 1.45x",
+    "shoo": "attack",
+    "eat": "attack",
+    "swim": "walk"
+  }
+}

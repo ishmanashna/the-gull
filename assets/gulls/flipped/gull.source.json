@@ -1,0 +1,15 @@
+{
+  "author": "Gobkit",
+  "pack": "Gobkit Free Bird Pack",
+  "license": "CC0-1.0",
+  "licenseFile": "game/public/assets/cast/licenses/birds/CC0-1.0.txt",
+  "url": "https://gobkit.com/freebies",
+  "input": "Web/Pelican.glb",
+  "sha256": "3e2395c2303334305cc5c6ef551ce954808d3037e12cc0e85ced4f82b2eadbfd",
+  "recipe": "game/src/gulls/flipped/build.py",
+  "metrics": {
+    "triangles": 792,
+    "primitives": 7,
+    "bytes": 54688
+  }
+}

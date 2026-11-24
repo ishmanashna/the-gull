@@ -1,0 +1,28 @@
+{
+  "id": "men",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "url": "https://poly.pizza/bundle/Ultimate-Modular-Men-Pack-ZiH8muWqwQ",
+  "creator_url": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+  "input": "Worker-Yg2bQZO6Hj.glb",
+  "sha256": "9c28614f465b7dc105f908c20c22fc045f4b07caf8c5ef0e9f8049eceb6dd38d",
+  "licenseFile": "licenses/men/CC0-1.0.txt",
+  "output": "maintenance-worker.glb",
+  "dimensions": [
+    1.548,
+    1.75,
+    0.3826
+  ],
+  "sourceClips": {
+    "idle": "CharacterArmature|Idle",
+    "walk": "CharacterArmature|Walk",
+    "run": "CharacterArmature|Run",
+    "work": "CharacterArmature|Interact",
+    "sit": "Authored pose using CharacterArmature|Idle",
+    "sleep": "Authored pose using CharacterArmature|Idle",
+    "flee": "CharacterArmature|Run at 1.15x",
+    "chase": "CharacterArmature|Run at 1.07x",
+    "shoo": "CharacterArmature|Wave",
+    "eat": "CharacterArmature|Interact"
+  }
+}

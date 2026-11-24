@@ -1,0 +1,29 @@
+{
+  "id": "fish",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "url": "https://poly.pizza/bundle/Animated-Fish-Bundle-ZkGbjS8m8g",
+  "creator_url": "https://poly.pizza/bundle/Animated-Fish-Bundle-ZkGbjS8m8g",
+  "input": "Whale-JGFwp6xWgk.glb",
+  "sha256": "153d6814c67039378fce22d4c347ed35d7febf2bedac866de91cf9b5dd7945f2",
+  "licenseFile": "licenses/fish/CC0-1.0.txt",
+  "output": "whale.glb",
+  "dimensions": [
+    3.5075,
+    2.75,
+    8.8013
+  ],
+  "sourceClips": {
+    "idle": "Armature|Swim at 0.62x",
+    "walk": "Armature|Swim",
+    "run": "Armature|Swim at 1.45x",
+    "work": "Armature|Swim",
+    "sit": "Armature|Swim at 0.62x",
+    "sleep": "Armature|Swim at 0.62x",
+    "flee": "Armature|Swim at 1.65x",
+    "chase": "Armature|Swim at 1.45x",
+    "shoo": "Armature|Swim",
+    "eat": "Armature|Swim",
+    "swim": "Armature|Swim"
+  }
+}

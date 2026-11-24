@@ -1,0 +1,28 @@
+{
+  "id": "women",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "url": "https://poly.pizza/bundle/Ultimate-Modular-Women-Pack-aCBDXDdTNN",
+  "creator_url": "https://quaternius.com/packs/ultimatemodularwomen.html",
+  "input": "Animated Woman-nIItLV9nxS.glb",
+  "sha256": "a6522fe53d15de21130a957d1bf2b8a9a58d4e4e9a12af646645b667a9bb2d17",
+  "licenseFile": "licenses/women/CC0-1.0.txt",
+  "output": "vendor.glb",
+  "dimensions": [
+    1.4471,
+    1.64,
+    0.3501
+  ],
+  "sourceClips": {
+    "idle": "CharacterArmature|Idle",
+    "walk": "CharacterArmature|Walk",
+    "run": "CharacterArmature|Run",
+    "work": "Authored pose using CharacterArmature|Idle",
+    "sit": "Authored pose using CharacterArmature|Idle",
+    "sleep": "Authored pose using CharacterArmature|Idle",
+    "flee": "CharacterArmature|Run at 1.15x",
+    "chase": "CharacterArmature|Run at 1.07x",
+    "shoo": "CharacterArmature|Wave",
+    "eat": "CharacterArmature|Interact"
+  }
+}

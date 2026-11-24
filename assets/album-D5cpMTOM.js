@@ -1,0 +1,1 @@
+import{ac as m}from"./index-qmOD1jXO.js";/* empty css              */const c={initialState:()=>null,mount(o){const t=document.createElement("section");t.className="photo-album-sheet";const e=document.createElement("h1");e.textContent="Gull Book · Album",t.append(e),o.append(t);const{dispose:n}=m(t);return()=>{n(),t.remove()}}};export{c as feature};

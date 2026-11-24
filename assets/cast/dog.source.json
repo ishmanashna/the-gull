@@ -1,0 +1,28 @@
+{
+  "id": "animals",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "url": "https://poly.pizza/bundle/Animated-Animal-Pack-ILAPXeUYiS",
+  "creator_url": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+  "input": "Shiba Inu-y4wdQpg767.glb",
+  "sha256": "9cbd4f1e12f85024126eab6a2c5706c099196df1a10db74e6c8b67bac3fff54a",
+  "licenseFile": "licenses/animals/CC0-1.0.txt",
+  "output": "dog.glb",
+  "dimensions": [
+    0.2214,
+    0.64,
+    0.8163
+  ],
+  "sourceClips": {
+    "idle": "AnimalArmature|Idle",
+    "walk": "AnimalArmature|Walk",
+    "run": "AnimalArmature|Gallop",
+    "work": "AnimalArmature|Eating",
+    "sit": "AnimalArmature|Idle_2_HeadLow",
+    "sleep": "AnimalArmature|Idle_2_HeadLow",
+    "flee": "AnimalArmature|Gallop at 1.15x",
+    "chase": "AnimalArmature|Gallop at 1.07x",
+    "shoo": "AnimalArmature|Attack",
+    "eat": "AnimalArmature|Eating"
+  }
+}

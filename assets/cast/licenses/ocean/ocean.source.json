@@ -1,0 +1,25 @@
+{
+  "id": "ocean",
+  "url": "https://vuena.itch.io/ocean-sea-life-free-sample",
+  "author": "Vuena",
+  "license": "CC0-1.0",
+  "downloaded_at": "2026-11-23T15:50:31.062670+00:00",
+  "files": {
+    "README.txt": "402447114a0ceb239501c60091f9dd06272cbd95d02d6c8cf2ee5cc8bd2ec820",
+    "LICENSE.txt": "893273507a313f843102311087f57ab9c346b94ce9f3cfda3d7f3089a44a2c8b",
+    "GLB/animal_clownfish.glb": "d7bf31b901a9ca35640f828bb0711b79f90709d13f3fe632daac321859f24329",
+    "FBX/animal_clownfish.fbx": "0649ad4133d607065791eb370492e73729dbaad6574851b6d09686567a83fc3a",
+    "Textures/animal_clownfish_albedo.png": "837ae11030602cddb705d15597961d8e9623225919915cc19bf8bb520f717429",
+    "Textures/animal_clownfish_orm.png": "e8ab1cf3c553122fd559b977df5e53ef0223b3180134f36092aff8bf73c1fc44",
+    "GLB/animal_sea_turtle.glb": "9959307b0d52aa3ca4860493842068579c84a7849993d2afeb889ef2cec1dce9",
+    "FBX/animal_sea_turtle.fbx": "5704a99c25ad3d40953e0ef0315bf4e43de677d068604c5a19acd3796fbce393",
+    "Textures/animal_sea_turtle_albedo.png": "13265913447afcf10538f327219c64dd85884f9c2ba1b8a01c8291cbf79fc224",
+    "Textures/animal_sea_turtle_orm.png": "3b4c758c289364f73da4c5d75d8678f96dd754bd86d94114d3e5f7cb85856825",
+    "GLB/animal_crab.glb": "c9cbb7f6b3dd868280ca3ca2f72607273619bc280d95b01ac34272572d2f3e22",
+    "FBX/animal_crab.fbx": "380b2867a45dc9325f7609ff31ed2da0639326d44955885c8e69f170069ef721",
+    "Textures/animal_crab_albedo.png": "302849fee13ec09028fb848052e4540fe92ea34736bbe5d833b51c800c318787",
+    "Textures/animal_crab_orm.png": "93c30109ac70b5529b7f2973798d3b22f93aa2b8785b63fce951b55647c6fe55",
+    "cover.png": "14f9aa1923105800b801b06623b9e17df85f44d71dd77b819181342e8494b748",
+    "CC0-1.0.txt": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+  }
+}

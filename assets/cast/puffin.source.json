@@ -1,0 +1,32 @@
+{
+  "id": "legacy",
+  "author": "Gull studio",
+  "license": "Original project work",
+  "input": "Assets/Art/Models/animals/animal_puffin.glb",
+  "sha256": "82c554551e604672f148d549717250d929144fbdf225c7f943350fd871419154",
+  "output": "puffin.glb",
+  "dimensions": [
+    0.3513,
+    0.29,
+    0.4053
+  ],
+  "sourceClips": {
+    "idle": "idle",
+    "walk": "walk",
+    "run": "run",
+    "work": "work",
+    "sit": "sit",
+    "sleep": "sit",
+    "flee": "flee",
+    "chase": "chase",
+    "shoo": "shoo",
+    "eat": "feed",
+    "swim": "walk",
+    "fly": "Authored pose using idle",
+    "dive": "Authored pose using idle"
+  },
+  "animationLibrary": {
+    "input": "Assets/Art/Models/people/actor_clip_library.glb",
+    "sha256": "fbf02404ed85e461c16f7d8111ef6b9d9a765cc2544191388df70fc52c892dc3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "animals",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "url": "https://poly.pizza/bundle/Animated-Animal-Pack-ILAPXeUYiS",
+  "creator_url": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+  "input": "Deer-T6Cs7tmMHJ.glb",
+  "sha256": "fabf360b22eaccccd056ee99d698a9562d15aa245821f96e4fbad6db3751604e",
+  "licenseFile": "licenses/animals/CC0-1.0.txt",
+  "output": "deer.glb",
+  "dimensions": [
+    0.5052,
+    1.48,
+    1.5227
+  ],
+  "sourceClips": {
+    "idle": "AnimalArmature|Idle",
+    "walk": "AnimalArmature|Walk",
+    "run": "AnimalArmature|Gallop",
+    "work": "AnimalArmature|Eating",
+    "sit": "AnimalArmature|Idle_Headlow",
+    "sleep": "AnimalArmature|Idle_Headlow",
+    "flee": "AnimalArmature|Gallop at 1.15x",
+    "chase": "AnimalArmature|Gallop at 1.07x",
+    "shoo": "AnimalArmature|Attack_Headbutt",
+    "eat": "AnimalArmature|Eating"
+  }
+}

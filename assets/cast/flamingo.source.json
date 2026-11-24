@@ -1,0 +1,29 @@
+{
+  "id": "birds",
+  "author": "Gobkit",
+  "license": "CC0-1.0",
+  "url": "https://gobkit.com/freebies",
+  "input": "Web/Flamingo.glb",
+  "sha256": "15ca99527b87af6d3e13ddbe9b026b6ac0607f56ab14bf37d0e7ca36e69d1180",
+  "licenseFile": "licenses/birds/CC0-1.0.txt",
+  "output": "flamingo.glb",
+  "dimensions": [
+    1.1705,
+    1.31,
+    1.048
+  ],
+  "sourceClips": {
+    "idle": "idle",
+    "walk": "walk",
+    "run": "walk at 1.45x",
+    "work": "walk",
+    "sit": "idle",
+    "sleep": "idle",
+    "flee": "walk at 1.65x",
+    "chase": "walk at 1.45x",
+    "shoo": "attack",
+    "eat": "attack",
+    "fly": "Authored pose using idle",
+    "dive": "Authored pose using idle"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pets",
+  "author": "Vuena",
+  "license": "CC0-1.0",
+  "url": "https://vuena.itch.io/blocky-pets-free",
+  "input": "GLB/animal_owl.glb",
+  "sha256": "12b0d7ff039b60b58ea4dd0ebcf07242c5f2c3d1ba0dc0935b94aa5a954a8bbc",
+  "licenseFile": "licenses/pets/CC0-1.0.txt",
+  "output": "owl.glb",
+  "dimensions": [
+    0.3004,
+    0.41,
+    0.2331
+  ],
+  "sourceClips": {
+    "idle": "idle",
+    "walk": "walk",
+    "run": "walk at 1.45x",
+    "work": "eat",
+    "sit": "sit",
+    "sleep": "sleep",
+    "flee": "fly",
+    "chase": "fly",
+    "shoo": "call",
+    "eat": "eat",
+    "fly": "fly",
+    "dive": "Authored pose using idle"
+  }
+}

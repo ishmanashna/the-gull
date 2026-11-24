@@ -1,0 +1,27 @@
+{
+  "id": "ocean",
+  "author": "Vuena",
+  "license": "CC0-1.0",
+  "url": "https://vuena.itch.io/ocean-sea-life-free-sample",
+  "input": "GLB/animal_crab.glb",
+  "sha256": "c9cbb7f6b3dd868280ca3ca2f72607273619bc280d95b01ac34272572d2f3e22",
+  "licenseFile": "licenses/ocean/CC0-1.0.txt",
+  "output": "crab.glb",
+  "dimensions": [
+    0.3972,
+    0.22,
+    0.3575
+  ],
+  "sourceClips": {
+    "idle": "idle",
+    "walk": "walk",
+    "run": "run",
+    "work": "eat",
+    "sit": "idle_alt at 0.62x",
+    "sleep": "sleep",
+    "flee": "run at 1.15x",
+    "chase": "run at 1.07x",
+    "shoo": "call",
+    "eat": "eat"
+  }
+}
