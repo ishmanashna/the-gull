@@ -2,7 +2,7 @@
 
 Play: https://ishmanashna.github.io/the-gull/
 
-Version 1.5
+Version 1.6
 
 - A/D turn. W/S climb and descend in flight.
 - Arrow keys look around.
